@@ -14,11 +14,9 @@
   
 <br/>  
 
-## My Skill Set  
+<table border="0"><tr><td valign="top" width="50%">
 
-<table><tr><td valign="top" width="50%">
-
-### Frontend  
+### Touched at least once
 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
