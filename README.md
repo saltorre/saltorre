@@ -14,7 +14,7 @@
   
 <br/>  
 
-<table border="0"><tr><td valign="top" width="50%">
+<table style="border-collapse: collapse;"><tr><td valign="top" width="50%" style="border: none;">
 
 ### Touched at least once
 
@@ -46,7 +46,7 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%" style="border: none;">
 
 ### My Skill Set  
 
@@ -66,8 +66,6 @@
 ## Connect with me  
 
 <div align="center">
-<a href="https://github.com/saltorre" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 <a href="https://linkedin.com/in/saltorre" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
