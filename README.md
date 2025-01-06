@@ -7,7 +7,7 @@
 
 - 🚚 I specialize in embedded software development for motor control including permanent magnet motor control algorithms
 
-- 🔭 I’m currently working on a mobile app written in Flutter/Dart
+- 🔭 I’m currently working on embedded IoT software
   
 - 🌱 I’m currently learning to write more scripts to increase software quality
   
