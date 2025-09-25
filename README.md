@@ -7,13 +7,13 @@
 
 - 🚚 I specialize in embedded software development for motor control including permanent magnet motor control algorithms
 
-- 🔭 I’m currently working on embedded IoT software
+- 🔭 I’m currently working on Flutter app and embedded IoT software
   
-- 🌱 I’m currently learning to write more scripts to increase software quality
+- 🌱 I’m currently learning how to best use Cursor
   
 - ❓ Ask me about anything related to motor control
 
-- ⚡ Fun fact: I like writing manuals and ChatGPT has supercharged that!
+- ⚡ Fun fact: I like writing manuals and LLMs have supercharged that!
   
 ## My Skill Set  
 
